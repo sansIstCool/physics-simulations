@@ -4,7 +4,6 @@ A simple 2D physics simulation built with **Python** and **Pygame** to demonstra
 
 ## 🚀 The Simulation
 ![Physics Demo](demo.gif) 
-*(Note: Replace 'demo.gif' with your actual screen recording file name)*
 
 ## 🧠 The Physics Behind the Code
 This simulation implements **Semi-Implicit Euler Integration**. Instead of just moving pixels, the ball follows mathematical rules:
