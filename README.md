@@ -4,8 +4,8 @@ A simple 2D physics simulation built with **Python** and **Pygame** to demonstra
 
 
 
-##Newton's rules.
-#1.NewTon's second rule
+## Newton's rules.
+# 1.NewTon's second rule
 
 # 🚀 The Simulation
 ![Physics Demo](demo.gif) 
