@@ -14,6 +14,8 @@ momentum interact in real time.
 
 ## 🛠️ How to Run
 1. Install Pygame: `pip install pygame`
-2. Run the script: `python main.py`
+2. install pymunk: `pip install pymunk`
+3. Run the script: `python "for windows" python3 "for mac and linux" (file name).py`
+   
 ---
 *Part of scholarship applecation challenge.*
