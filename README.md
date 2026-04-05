@@ -1,15 +1,16 @@
-# 2D Physics Simulation: Day 1 - Constant Acceleration & Impulse
+# 2D Physics Simulation: -
 
-A simple 2D physics simulation built with **Python** and **Pygame** to demonstrate the fundamental laws of kinematics and Newton's Second Law of Motion.
-
-
+A simple 2D physics simulation built with **Python** , **Pygame** and **Pymunk**
 
 ## Newton's rules.
 # 1.NewTon's second rule
 
 # 🚀 The Simulation
 ![Physics Demo](demo.gif) 
-
+## Description
+A 2D physics simulation demonstrating Newton's Second Law (F = ma). 
+Press space to apply force to a rigid body and watch gravity and 
+momentum interact in real time.
 
 ## 🛠️ How to Run
 1. Install Pygame: `pip install pygame`
