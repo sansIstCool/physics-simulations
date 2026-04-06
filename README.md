@@ -1,6 +1,6 @@
 # 2D Physics Simulation: -
 
-A simple 2D physics simulation built with **Python** , **Pygame** and **Pymunk**
+A simple 2D physics simulation built with **Python** , **Pygame**
 
 ## Newton's rules.
 # 1.NewTon's second rule
@@ -14,7 +14,6 @@ momentum interact in real time.
 
 ## 🛠️ How to Run
 1. Install Pygame: `pip install pygame`
-2. install pymunk: `pip install pymunk`
 3. Run the script: `python "for windows" python3 "for mac and linux" (file name).py`
    
 ---
